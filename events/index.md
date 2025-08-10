@@ -1,2 +1,4 @@
-@def title = "QUALSA Events"
-@def css = "event-list.css"
++++
+title = "Events"
+css = "event-list.css"
++++
