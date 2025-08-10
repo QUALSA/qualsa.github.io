@@ -1,5 +1,5 @@
 +++
-title = "QUALSA Constitution"
+title = "QUALSA Consti"
 css = "constitution.css"
 +++
 
